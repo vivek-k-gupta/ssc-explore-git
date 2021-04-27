@@ -1,0 +1,12 @@
+kb GIT_TEST_KB {
+	version "0.0.1.0"
+	validFrom 2021-01-01
+	tasks
+		TEST_KB_TSK
+	profiles
+		name 'GIT_TEST' material DUMMY_MAT
+	
+}
+task TEST_KB_TSK {
+// To be defined		
+}
