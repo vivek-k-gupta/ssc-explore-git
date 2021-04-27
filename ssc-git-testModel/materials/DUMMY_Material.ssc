@@ -1,0 +1,3 @@
+material DUMMY_MAT {
+	name 'Dummy Material'
+}
